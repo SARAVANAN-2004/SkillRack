@@ -1,3 +1,5 @@
+package set_1;
+
 import java.util.Scanner;
 
 public class Game_Collect_Maximum_Points {

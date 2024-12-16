@@ -1,3 +1,5 @@
+package set_1;
+
 import java.util.Scanner;
 
 public class Characters_in_at_least_N_minus_1_String_Values {

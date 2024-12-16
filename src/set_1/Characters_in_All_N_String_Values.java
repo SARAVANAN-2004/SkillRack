@@ -1,3 +1,5 @@
+package set_1;
+
 import java.util.Scanner;
 
 public class Characters_in_All_N_String_Values {

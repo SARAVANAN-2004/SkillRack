@@ -1,3 +1,5 @@
+package set_1;
+
 import java.util.*;
 public class Arrays_Majority_Element {
         public static void main(String[] args) {

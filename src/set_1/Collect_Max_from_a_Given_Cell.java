@@ -1,3 +1,5 @@
+package set_1;
+
 import java.util.Scanner;
 
 public class Collect_Max_from_a_Given_Cell {

@@ -1,3 +1,5 @@
+package set_1;
+
 import java.util.Scanner;
 
 public class N_BishopsFillRemaining {

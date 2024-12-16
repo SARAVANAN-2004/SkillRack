@@ -1,3 +1,4 @@
+package set_1;
 
 import java.util.*;
 public class dp_Equal_cnt_vowel_and_consonant {

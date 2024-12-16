@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="205020bf-2516-42bc-9c58-f2f7518b180f" name="Changes" comment="new file update">
-      <change afterPath="$PROJECT_DIR$/src/ArrayNextGreaterElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Characters_in_All_N_String_Values.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Characters_in_at_least_N_minus_1_String_Values.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collect_Max_from_a_Given_Cell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Game_Collect_Maximum_Points.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Minimum_Operations_X_to_Y.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Minimum_Operations_Zero_to_N.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Social_Media_Leader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="205020bf-2516-42bc-9c58-f2f7518b180f" name="Changes" comment="new file update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1734029836571</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="new file update">
+      <created>1734372064888</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1734372064888</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

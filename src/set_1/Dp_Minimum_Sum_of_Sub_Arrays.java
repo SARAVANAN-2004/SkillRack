@@ -1,6 +1,7 @@
-import java.util.Scanner;
+package set_1;
 
-public class Dp_Maximum_Sum_of_Sub_Arrays {
+import java.util.Scanner;
+public class Dp_Minimum_Sum_of_Sub_Arrays {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
@@ -15,21 +16,21 @@ public class Dp_Maximum_Sum_of_Sub_Arrays {
             arr[i] = in.nextInt();
         }
 
-        // Initialize variables to track the current sum (currSum) and maximum sum (maxSum) found so far
+        // Initialize variables to track the current sum (currSum) and minimum sum (minSum) found so far
         int currSum = arr[0];
-        int maxSum = arr[0];
+        int minSum = arr[0];
 
         // Iterate through the array starting from the second element (i = 1)
         for (int i = 1; i < N; i++) {
             // Calculate the current sum: either the previous sum + current element OR just the current element
-            // This considers if the previous elements contributed negatively to the sum.
-            currSum = Math.max(currSum + arr[i], arr[i]);
+            // This considers if the previous elements contributed positively to the sum (making it less negative).
+            currSum = Math.min(currSum + arr[i], arr[i]);
 
-            // Update the maximum sum if the current sum is greater
-            maxSum = Math.max(currSum, maxSum);
+            // Update the minimum sum if the current sum is less negative (closer to zero)
+            minSum = Math.min(currSum, minSum);
         }
 
-        // Print the maximum sum found in the array
-        System.out.print(maxSum);
+        // Print the minimum sum found in the array
+        System.out.print(minSum);
     }
 }

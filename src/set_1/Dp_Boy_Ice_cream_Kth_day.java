@@ -1,3 +1,5 @@
+package set_1;
+
 import java.util.*;
 public class Dp_Boy_Ice_cream_Kth_day {
     public static void main(String[] args) {

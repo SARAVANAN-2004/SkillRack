@@ -1,3 +1,4 @@
+package set_1;
 
 import java.util.*;
 public class Dp_Boy_Ice_Cream_no_Consecutive_days {
