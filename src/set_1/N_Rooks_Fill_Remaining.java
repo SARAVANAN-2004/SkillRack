@@ -1,65 +1,62 @@
-package set_1;
+import java.util.Scanner;
 
-import java.util.*;
-public class N_Rooks_Fill_Remaining {
-    // Your Code Here
+public class NBishopFillingRows {
+
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        int n = in.nextInt(); // Get the size of the chessboard
+        int N = in.nextInt();
+        byte[][] board = new byte[N][N];
+        boolean[] swd = new boolean[2 * N - 1];
+        boolean[] nwd = new boolean[2 * N - 1];
+        boolean[] bishop = new boolean[N];
 
-        boolean[] rookRow = new boolean[n]; // Array to track occupied rows
-        boolean[] rookCol = new boolean[n]; // Array to track occupied columns
-        int[][] arr = new int[n][n]; // 2D array to represent the chessboard
-
-        // Read the initial positions of rooks
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                arr[i][j] = in.nextInt();
-                if (arr[i][j] == 1) {
-                    rookRow[i] = true; // Mark the row as occupied
-                    rookCol[j] = true; // Mark the column as occupied
+        for (int row = 0; row < N; row++) {
+            for (int col = 0; col < N; col++) {
+                board[row][col] = in.nextByte();
+                if (board[row][col] == 1) {
+                    bishop[row] = true;
+                    nwd[col + row] = true;
+                    swd[col - row + N - 1] = true;
                 }
             }
         }
 
-        // Solve the rook placement problem
-        solve(arr, rookRow, rookCol, n, 0);
-
-        // Print the final arrangement of rooks
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                System.out.print(arr[i][j] + " ");
+        if (canPlace(N, 0, board, swd, nwd, bishop)) {
+            for (int row = 0; row < N; row++) {
+                for (int col = 0; col < N; col++) {
+                    System.out.print(board[row][col] + " ");
+                }
+                System.out.println();
             }
-            System.out.println();
+        } else {
+            System.out.println("NotPossible");
         }
     }
 
-    // Recursive function to solve the rook placement problem
-    public static void solve(int[][] arr, boolean[] rookRow, boolean[] rookCol, int n, int row) {
-        // Base case: If all rows are processed, return
-        if (row == n) {
-            return;
+    private static boolean canPlace(int N, int row, byte[][] board, boolean[] swd, boolean[] nwd, boolean[] bishop) {
+        if (row == N) {
+            return true;
         }
-
-        // If the current row is already occupied, move to the next row
-        if (rookRow[row]) {
-            solve(arr, rookRow, rookCol, n, row + 1);
-            return;
+        if (bishop[row]) {
+            return canPlace(N, row + 1, board, swd, nwd, bishop);
         }
+        for (int col = 0; col < N; col++) {
+            if (!swd[col - row + N - 1] && !nwd[col + row]) {
+                board[row][col] = 1;
+                bishop[row] = true;
+                swd[col - row + N - 1] = true;
+                nwd[col + row] = true;
 
-        // Try placing a rook in each empty column of the current row
-        for (int col = 0; col < n; col++) {
-            if (!rookCol[col]) {
-                // Place the rook
-                arr[row][col] = 1;
-                rookCol[col] = true;
-                rookRow[row] = true;
-
-                // Recursively solve for the remaining rows
-                solve(arr, rookRow, rookCol, n, row + 1);
-
-                return;
+                if (canPlace(N, row + 1, board, swd, nwd, bishop)) {
+                    return true;
+                } else {
+                    board[row][col] = 0;
+                    bishop[row] = false;
+                    swd[col - row + N - 1] = false;
+                    nwd[col + row] = false;
+                }
             }
         }
+        return false;
     }
 }
