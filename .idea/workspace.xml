@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="205020bf-2516-42bc-9c58-f2f7518b180f" name="Changes" comment="new file update" />
+    <list default="true" id="205020bf-2516-42bc-9c58-f2f7518b180f" name="Changes" comment="new file update">
+      <change afterPath="$PROJECT_DIR$/src/set_2/Robot_Stair_Climbing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/set_1/NBishopFillingRows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/set_1/NBishopFillingRows.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/set_1/NRooksFillingsRows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/set_1/NRooksFillingsRows.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +28,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="ProjectId" id="2ptbleWfqQWKsiCjcvHgz2aQCwL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -31,14 +36,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Saravanan G/IdeaProjects/SkillRackPrime/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.NBishopFillingRows.executor": "Run",
+    "Application.NRooksFillingsRows.executor": "Run",
+    "Application.Robot_Stair_Climbing.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "onboarding.tips.debug.path": "C:/Users/Saravanan G/IdeaProjects/SkillRackPrime/src/Main.java"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -97,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733681455693</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="new file update">
+      <option name="closed" value="true" />
+      <created>1734883205004</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1734883205004</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
