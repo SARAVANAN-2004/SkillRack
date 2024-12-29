@@ -5,9 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="205020bf-2516-42bc-9c58-f2f7518b180f" name="Changes" comment="new file update">
-      <change afterPath="$PROJECT_DIR$/src/set_2/Robot_Stair_Climbing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/set_1/NBishopFillingRows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/set_1/NBishopFillingRows.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/set_1/NRooksFillingsRows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/set_1/NRooksFillingsRows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_2/Combination_Zero_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_2/DP_Array_Elements_Equal_Left_Right_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_2/Island_Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_2/Iterations_Count_All_Zero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_2/Largest_Possible_Odd_Integer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_2/Longest_Substring_Equal_Alphabets_and_Digits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_2/Maximum_Sum_KxK_Sub_Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_2/Minimum_Sum_KxK_Sub_Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_2/Minimum_Swaps_Ascending_Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_2/Minimum_Swaps_Descending_Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_2/Non_Measurable_Smallest_Weight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_2/Path_Exists_from_Source_to_Destination_Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_2/Permutation_Nearest_Value.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_2/Permutations_String_Characters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_2/Smallest_Possible_Odd_Integer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_2/Solve_Sudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_2/Stock_Buy_Sell_Multiple_Times_Maximum_Profit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_2/Stock_Buy_Sell_Once_Maximum_Profit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_2/String_Characters_Combinations_Sorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_2/Sudoku_Validity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_2/Word_Search_n_Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_3/Selling_Wine_Bottles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +50,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SARAVANAN-2004&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SARAVANAN-2004/SkillRack.git&quot;,
+    &quot;accountId&quot;: &quot;7edf6642-b637-435f-99da-c11b6cd1008d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2ptbleWfqQWKsiCjcvHgz2aQCwL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -38,12 +73,37 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Combination_Zero_Sum.executor": "Run",
+    "Application.DP_Array_Elements_Equal_Left_Right_Sum.executor": "Run",
+    "Application.Island_Count.executor": "Run",
+    "Application.Iterations_Count_All_Zero.executor": "Run",
+    "Application.Largest_Possible_Odd_Integer.executor": "Run",
+    "Application.Longest_Common_Signal.executor": "Run",
+    "Application.Longest_Substring_Equal_Alphabets_and_Digits.executor": "Run",
+    "Application.Maximum_Sum_KxK_Sub_Matrix.executor": "Run",
+    "Application.Minimum_Sum_KxK_Sub_Matrix.executor": "Run",
+    "Application.Minimum_Swaps_Ascending_Order.executor": "Run",
+    "Application.Minimum_Swaps_Descending_Order.executor": "Run",
     "Application.NBishopFillingRows.executor": "Run",
     "Application.NRooksFillingsRows.executor": "Run",
+    "Application.Non_Measurable_Smallest_Weight.executor": "Run",
+    "Application.Path_Exists_from_Source_to_Destination_Cell.executor": "Run",
+    "Application.Permutation_Nearest_Value.executor": "Run",
+    "Application.Permutations_String_Characters.executor": "Run",
     "Application.Robot_Stair_Climbing.executor": "Run",
+    "Application.Selling_Wine_Bottles.executor": "Run",
+    "Application.Smallest_Possible_Odd_Integer.executor": "Run",
+    "Application.Solve_Sudoku.executor": "Run",
+    "Application.Stair_Climbing_Damaged_Stairs.executor": "Run",
+    "Application.Stock_Buy_Sell_Multiple_Times_Maximum_Profit.executor": "Run",
+    "Application.Stock_Buy_Sell_Once_Maximum_Profit.executor": "Run",
+    "Application.String_Characters_Combinations_Sorted.executor": "Run",
+    "Application.Sudoku_Validity.executor": "Run",
+    "Application.Word_Search_n_Matrix.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Saravanan G/IdeaProjects/SkillRackPrime/src/Main.java"
   }
 }]]></component>
@@ -113,7 +173,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734883205004</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="new file update">
+      <option name="closed" value="true" />
+      <created>1734883661000</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1734883661000</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
