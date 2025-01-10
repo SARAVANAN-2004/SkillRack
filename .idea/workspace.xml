@@ -5,28 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="205020bf-2516-42bc-9c58-f2f7518b180f" name="Changes" comment="new file update">
-      <change afterPath="$PROJECT_DIR$/src/set_2/Combination_Zero_Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_2/DP_Array_Elements_Equal_Left_Right_Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_2/Island_Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_2/Iterations_Count_All_Zero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_2/Largest_Possible_Odd_Integer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_2/Longest_Substring_Equal_Alphabets_and_Digits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_2/Maximum_Sum_KxK_Sub_Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_2/Minimum_Sum_KxK_Sub_Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_2/Minimum_Swaps_Ascending_Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_2/Minimum_Swaps_Descending_Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_2/Non_Measurable_Smallest_Weight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_2/Path_Exists_from_Source_to_Destination_Cell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_2/Permutation_Nearest_Value.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_2/Permutations_String_Characters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_2/Smallest_Possible_Odd_Integer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_2/Solve_Sudoku.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_2/Stock_Buy_Sell_Multiple_Times_Maximum_Profit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_2/Stock_Buy_Sell_Once_Maximum_Profit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_2/String_Characters_Combinations_Sorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_2/Sudoku_Validity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_2/Word_Search_n_Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_3/Browsing_Center_Computers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_3/Corona_Virus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_3/Delete_TV_Channels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_3/Find_Single_Value_Repeated_Odd_Times.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_3/Intelligent_Chef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_3/Largest_Square_Sub_Matrix_with_s.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_3/Longest_Palindromic_Substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_3/Max_Coins_Bottom_Row_Cannot_Pick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_3/Minimum_Edit_Distance_Two_Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_3/Minimum_Jumps_to_Reach_End.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_3/Minimum_Road_Cost_Visit_N_Cities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_3/N_Queens_Fill_Remaining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_3/PalindromicPartition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_3/Pet_Store_Dogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_3/Photograph_Height.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_3/Power_Points_Split.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/set_3/Selling_Wine_Bottles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_3/Single_Source_Shortest_Path.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_3/Street_Travel_Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_3/String_Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_3/Subset_Count_Combination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_3/Toll_Gate_Collection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_3/Vendor_Maximum_Profit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_3/Wildcard_Pattern_Matching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_3/Word_Break.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,42 +74,63 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Combination_Zero_Sum.executor": "Run",
-    "Application.DP_Array_Elements_Equal_Left_Right_Sum.executor": "Run",
-    "Application.Island_Count.executor": "Run",
-    "Application.Iterations_Count_All_Zero.executor": "Run",
-    "Application.Largest_Possible_Odd_Integer.executor": "Run",
-    "Application.Longest_Common_Signal.executor": "Run",
-    "Application.Longest_Substring_Equal_Alphabets_and_Digits.executor": "Run",
-    "Application.Maximum_Sum_KxK_Sub_Matrix.executor": "Run",
-    "Application.Minimum_Sum_KxK_Sub_Matrix.executor": "Run",
-    "Application.Minimum_Swaps_Ascending_Order.executor": "Run",
-    "Application.Minimum_Swaps_Descending_Order.executor": "Run",
-    "Application.NBishopFillingRows.executor": "Run",
-    "Application.NRooksFillingsRows.executor": "Run",
-    "Application.Non_Measurable_Smallest_Weight.executor": "Run",
-    "Application.Path_Exists_from_Source_to_Destination_Cell.executor": "Run",
-    "Application.Permutation_Nearest_Value.executor": "Run",
-    "Application.Permutations_String_Characters.executor": "Run",
-    "Application.Robot_Stair_Climbing.executor": "Run",
-    "Application.Selling_Wine_Bottles.executor": "Run",
-    "Application.Smallest_Possible_Odd_Integer.executor": "Run",
-    "Application.Solve_Sudoku.executor": "Run",
-    "Application.Stair_Climbing_Damaged_Stairs.executor": "Run",
-    "Application.Stock_Buy_Sell_Multiple_Times_Maximum_Profit.executor": "Run",
-    "Application.Stock_Buy_Sell_Once_Maximum_Profit.executor": "Run",
-    "Application.String_Characters_Combinations_Sorted.executor": "Run",
-    "Application.Sudoku_Validity.executor": "Run",
-    "Application.Word_Search_n_Matrix.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Saravanan G/IdeaProjects/SkillRackPrime/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Browsing_Center_Computers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Combination_Zero_Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Corona_Virus.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DP_Array_Elements_Equal_Left_Right_Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Delete_TV_Channels.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Find_Single_Value_Repeated_Odd_Times.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Island_Count.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Iterations_Count_All_Zero.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Largest_Possible_Odd_Integer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Largest_Square_Sub_Matrix_with_s.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Longest_Common_Signal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Longest_Palindromic_Substring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Longest_Substring_Equal_Alphabets_and_Digits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Max_Coins_Bottom_Row_Cannot_Pick.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Maximum_Sum_KxK_Sub_Matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Minimum_Edit_Distance_Two_Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Minimum_Jumps_to_Reach_End.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Minimum_Sum_KxK_Sub_Matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Minimum_Swaps_Ascending_Order.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Minimum_Swaps_Descending_Order.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NBishopFillingRows.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NRooksFillingsRows.executor&quot;: &quot;Run&quot;,
+    &quot;Application.N_Queens_Fill_Remaining.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Non_Measurable_Smallest_Weight.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PalindromicPartition.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Path_Exists_from_Source_to_Destination_Cell.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Permutation_Nearest_Value.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Permutations_String_Characters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pet_Store_Dogs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Photograph_Height.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Robot_Stair_Climbing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Selling_Wine_Bottles.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Single_Source_Shortest_Path.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Smallest_Possible_Odd_Integer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solve_Sudoku.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stair_Climbing_Damaged_Stairs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stock_Buy_Sell_Multiple_Times_Maximum_Profit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Stock_Buy_Sell_Once_Maximum_Profit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Street_Travel_Count.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String_Characters_Combinations_Sorted.executor&quot;: &quot;Run&quot;,
+    &quot;Application.String_Permutation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Subset_Count_Combination.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sudoku_Validity.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Toll_Gate_Collection.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Vendor_Maximum_Profit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Wildcard_Pattern_Matching.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Word_Break.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Word_Search_n_Matrix.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Saravanan G/IdeaProjects/SkillRackPrime/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -181,7 +205,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734883661000</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="new file update">
+      <option name="closed" value="true" />
+      <created>1735493974678</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1735493974678</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
