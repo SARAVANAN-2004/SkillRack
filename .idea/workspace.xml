@@ -4,33 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="205020bf-2516-42bc-9c58-f2f7518b180f" name="Changes" comment="new file update">
-      <change afterPath="$PROJECT_DIR$/src/set_3/Browsing_Center_Computers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_3/Corona_Virus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_3/Delete_TV_Channels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_3/Find_Single_Value_Repeated_Odd_Times.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_3/Intelligent_Chef.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_3/Largest_Square_Sub_Matrix_with_s.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_3/Longest_Palindromic_Substring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_3/Max_Coins_Bottom_Row_Cannot_Pick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_3/Minimum_Edit_Distance_Two_Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_3/Minimum_Jumps_to_Reach_End.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_3/Minimum_Road_Cost_Visit_N_Cities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_3/N_Queens_Fill_Remaining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_3/PalindromicPartition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_3/Pet_Store_Dogs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_3/Photograph_Height.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_3/Power_Points_Split.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_3/Selling_Wine_Bottles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_3/Single_Source_Shortest_Path.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_3/Street_Travel_Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_3/String_Permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_3/Subset_Count_Combination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_3/Toll_Gate_Collection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_3/Vendor_Maximum_Profit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_3/Wildcard_Pattern_Matching.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_3/Word_Break.java" afterDir="false" />
+    <list default="true" id="205020bf-2516-42bc-9c58-f2f7518b180f" name="Changes" comment="set 3 update">
+      <change afterPath="$PROJECT_DIR$/src/set_4/Binary_Matrix_Row_Duplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_4/Bursting_Balloons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_4/Children_Candy_Distribution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_4/Coins_Change_Minimum_Required.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_4/Distinct_Sub_Sequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_4/Larger_Island_Toggle_Single_Zero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_4/Matrix_Longest_Increasing_Path.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_4/Text_Justification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_4/Trapping_Rain_Water.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_4/Two_Integers_Occuring_Odd_Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_5/Couples_Holding_Hands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_5/Median_from_Data_Stream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_5/Reduce_Dishes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/set_3/Intelligent_Chef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/set_3/Intelligent_Chef.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,21 +65,31 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.Binary_Matrix_Row_Duplicates.executor&quot;: &quot;Run&quot;,
     &quot;Application.Browsing_Center_Computers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bursting_Balloons.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Children_Candy_Distribution.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Coins_Change_Minimum_Required.executor&quot;: &quot;Run&quot;,
     &quot;Application.Combination_Zero_Sum.executor&quot;: &quot;Run&quot;,
     &quot;Application.Corona_Virus.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Couples_Holding_Hands.executor&quot;: &quot;Run&quot;,
     &quot;Application.DP_Array_Elements_Equal_Left_Right_Sum.executor&quot;: &quot;Run&quot;,
     &quot;Application.Delete_TV_Channels.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Distinct_Sub_Sequences.executor&quot;: &quot;Run&quot;,
     &quot;Application.Find_Single_Value_Repeated_Odd_Times.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Intelligent_Chef.executor&quot;: &quot;Run&quot;,
     &quot;Application.Island_Count.executor&quot;: &quot;Run&quot;,
     &quot;Application.Iterations_Count_All_Zero.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Larger_Island_Toggle_Single_Zero.executor&quot;: &quot;Run&quot;,
     &quot;Application.Largest_Possible_Odd_Integer.executor&quot;: &quot;Run&quot;,
     &quot;Application.Largest_Square_Sub_Matrix_with_s.executor&quot;: &quot;Run&quot;,
     &quot;Application.Longest_Common_Signal.executor&quot;: &quot;Run&quot;,
     &quot;Application.Longest_Palindromic_Substring.executor&quot;: &quot;Run&quot;,
     &quot;Application.Longest_Substring_Equal_Alphabets_and_Digits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Matrix_Longest_Increasing_Path.executor&quot;: &quot;Run&quot;,
     &quot;Application.Max_Coins_Bottom_Row_Cannot_Pick.executor&quot;: &quot;Run&quot;,
     &quot;Application.Maximum_Sum_KxK_Sub_Matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Median_from_Data_Stream.executor&quot;: &quot;Run&quot;,
     &quot;Application.Minimum_Edit_Distance_Two_Strings.executor&quot;: &quot;Run&quot;,
     &quot;Application.Minimum_Jumps_to_Reach_End.executor&quot;: &quot;Run&quot;,
     &quot;Application.Minimum_Sum_KxK_Sub_Matrix.executor&quot;: &quot;Run&quot;,
@@ -106,6 +105,7 @@
     &quot;Application.Permutations_String_Characters.executor&quot;: &quot;Run&quot;,
     &quot;Application.Pet_Store_Dogs.executor&quot;: &quot;Run&quot;,
     &quot;Application.Photograph_Height.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reduce_Dishes.executor&quot;: &quot;Run&quot;,
     &quot;Application.Robot_Stair_Climbing.executor&quot;: &quot;Run&quot;,
     &quot;Application.Selling_Wine_Bottles.executor&quot;: &quot;Run&quot;,
     &quot;Application.Single_Source_Shortest_Path.executor&quot;: &quot;Run&quot;,
@@ -119,7 +119,10 @@
     &quot;Application.String_Permutation.executor&quot;: &quot;Run&quot;,
     &quot;Application.Subset_Count_Combination.executor&quot;: &quot;Run&quot;,
     &quot;Application.Sudoku_Validity.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Text_Justification.executor&quot;: &quot;Run&quot;,
     &quot;Application.Toll_Gate_Collection.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Trapping_Rain_Water.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Two_Integers_Occuring_Odd_Count.executor&quot;: &quot;Run&quot;,
     &quot;Application.Vendor_Maximum_Profit.executor&quot;: &quot;Run&quot;,
     &quot;Application.Wildcard_Pattern_Matching.executor&quot;: &quot;Run&quot;,
     &quot;Application.Word_Break.executor&quot;: &quot;Run&quot;,
@@ -213,7 +216,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735493974678</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="set 3 update">
+      <option name="closed" value="true" />
+      <created>1736521205385</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1736521205385</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -229,7 +240,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new file update" />
-    <option name="LAST_COMMIT_MESSAGE" value="new file update" />
+    <MESSAGE value="set 3 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="set 3 update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

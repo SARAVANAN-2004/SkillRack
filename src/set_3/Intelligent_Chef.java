@@ -71,8 +71,15 @@ public class Intelligent_Chef {
 
             cnt++;  // Increment the round count
         }
-
         // Output the total number of rounds
         System.out.println(cnt);
     }
 }
+/*
+5
+Poori
+Idli
+Idli Poori
+Poori Dosa
+Dosa
+ */
