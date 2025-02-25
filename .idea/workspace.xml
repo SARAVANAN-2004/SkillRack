@@ -5,21 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="205020bf-2516-42bc-9c58-f2f7518b180f" name="Changes" comment="set 3 update">
-      <change afterPath="$PROJECT_DIR$/src/set_4/Binary_Matrix_Row_Duplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_4/Bursting_Balloons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_4/Children_Candy_Distribution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_4/Coins_Change_Minimum_Required.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_4/Distinct_Sub_Sequences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_4/Larger_Island_Toggle_Single_Zero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_4/Matrix_Longest_Increasing_Path.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_4/Text_Justification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_4/Trapping_Rain_Water.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_4/Two_Integers_Occuring_Odd_Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_5/Couples_Holding_Hands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_5/Median_from_Data_Stream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/set_5/Reduce_Dishes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_4/Safe_Walk_Through_Grid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_4/Word_Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_4/Word_Ladder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_5/Cherry_Pickup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_5/Cherry_Pickup_II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_5/Get_Maximum_Score.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_5/Merge_Intervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_5/Minimum_Cost_Hire_Workers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_5/Minimum_Flips_A_OR_B_Equals_C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_5/Non_Overlapping_Intervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_5/Patching_Integer_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set_5/Sliding_Window_Median.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/set_3/Intelligent_Chef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/set_3/Intelligent_Chef.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,77 +61,88 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Binary_Matrix_Row_Duplicates.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Browsing_Center_Computers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Bursting_Balloons.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Children_Candy_Distribution.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Coins_Change_Minimum_Required.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Combination_Zero_Sum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Corona_Virus.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Couples_Holding_Hands.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DP_Array_Elements_Equal_Left_Right_Sum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Delete_TV_Channels.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Distinct_Sub_Sequences.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Find_Single_Value_Repeated_Odd_Times.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Intelligent_Chef.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Island_Count.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Iterations_Count_All_Zero.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Larger_Island_Toggle_Single_Zero.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Largest_Possible_Odd_Integer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Largest_Square_Sub_Matrix_with_s.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Longest_Common_Signal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Longest_Palindromic_Substring.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Longest_Substring_Equal_Alphabets_and_Digits.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Matrix_Longest_Increasing_Path.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Max_Coins_Bottom_Row_Cannot_Pick.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Maximum_Sum_KxK_Sub_Matrix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Median_from_Data_Stream.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Minimum_Edit_Distance_Two_Strings.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Minimum_Jumps_to_Reach_End.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Minimum_Sum_KxK_Sub_Matrix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Minimum_Swaps_Ascending_Order.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Minimum_Swaps_Descending_Order.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NBishopFillingRows.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NRooksFillingsRows.executor&quot;: &quot;Run&quot;,
-    &quot;Application.N_Queens_Fill_Remaining.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Non_Measurable_Smallest_Weight.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PalindromicPartition.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Path_Exists_from_Source_to_Destination_Cell.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Permutation_Nearest_Value.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Permutations_String_Characters.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pet_Store_Dogs.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Photograph_Height.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Reduce_Dishes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Robot_Stair_Climbing.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Selling_Wine_Bottles.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Single_Source_Shortest_Path.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Smallest_Possible_Odd_Integer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solve_Sudoku.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Stair_Climbing_Damaged_Stairs.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Stock_Buy_Sell_Multiple_Times_Maximum_Profit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Stock_Buy_Sell_Once_Maximum_Profit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Street_Travel_Count.executor&quot;: &quot;Run&quot;,
-    &quot;Application.String_Characters_Combinations_Sorted.executor&quot;: &quot;Run&quot;,
-    &quot;Application.String_Permutation.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Subset_Count_Combination.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sudoku_Validity.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Text_Justification.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Toll_Gate_Collection.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Trapping_Rain_Water.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Two_Integers_Occuring_Odd_Count.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Vendor_Maximum_Profit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Wildcard_Pattern_Matching.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Word_Break.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Word_Search_n_Matrix.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Saravanan G/IdeaProjects/SkillRackPrime/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Binary_Matrix_Row_Duplicates.executor": "Run",
+    "Application.Browsing_Center_Computers.executor": "Run",
+    "Application.Bursting_Balloons.executor": "Run",
+    "Application.Cherry_Pickup.executor": "Run",
+    "Application.Cherry_Pickup_II.executor": "Run",
+    "Application.Children_Candy_Distribution.executor": "Run",
+    "Application.Coins_Change_Minimum_Required.executor": "Run",
+    "Application.Combination_Zero_Sum.executor": "Run",
+    "Application.Corona_Virus.executor": "Run",
+    "Application.Couples_Holding_Hands.executor": "Run",
+    "Application.DP_Array_Elements_Equal_Left_Right_Sum.executor": "Run",
+    "Application.Delete_TV_Channels.executor": "Run",
+    "Application.Distinct_Sub_Sequences.executor": "Run",
+    "Application.Find_Single_Value_Repeated_Odd_Times.executor": "Run",
+    "Application.Get_Maximum_Score.executor": "Run",
+    "Application.Intelligent_Chef.executor": "Run",
+    "Application.Island_Count.executor": "Run",
+    "Application.Iterations_Count_All_Zero.executor": "Run",
+    "Application.Larger_Island_Toggle_Single_Zero.executor": "Run",
+    "Application.Largest_Possible_Odd_Integer.executor": "Run",
+    "Application.Largest_Square_Sub_Matrix_with_s.executor": "Run",
+    "Application.Longest_Common_Signal.executor": "Run",
+    "Application.Longest_Palindromic_Substring.executor": "Run",
+    "Application.Longest_Substring_Equal_Alphabets_and_Digits.executor": "Run",
+    "Application.Matrix_Longest_Increasing_Path.executor": "Run",
+    "Application.Max_Coins_Bottom_Row_Cannot_Pick.executor": "Run",
+    "Application.Maximum_Sum_KxK_Sub_Matrix.executor": "Run",
+    "Application.Median_from_Data_Stream.executor": "Run",
+    "Application.Merge_Intervals.executor": "Run",
+    "Application.Minimum_Cost_Hire_Workers.executor": "Run",
+    "Application.Minimum_Edit_Distance_Two_Strings.executor": "Run",
+    "Application.Minimum_Flips_A_OR_B_Equals_C.executor": "Run",
+    "Application.Minimum_Jumps_to_Reach_End.executor": "Run",
+    "Application.Minimum_Sum_KxK_Sub_Matrix.executor": "Run",
+    "Application.Minimum_Swaps_Ascending_Order.executor": "Run",
+    "Application.Minimum_Swaps_Descending_Order.executor": "Run",
+    "Application.NBishopFillingRows.executor": "Run",
+    "Application.NRooksFillingsRows.executor": "Run",
+    "Application.N_Queens_Fill_Remaining.executor": "Run",
+    "Application.Non_Measurable_Smallest_Weight.executor": "Run",
+    "Application.Non_Overlapping_Intervals.executor": "Run",
+    "Application.PalindromicPartition.executor": "Run",
+    "Application.Patching_Integer_Array.executor": "Run",
+    "Application.Path_Exists_from_Source_to_Destination_Cell.executor": "Run",
+    "Application.Permutation_Nearest_Value.executor": "Run",
+    "Application.Permutations_String_Characters.executor": "Run",
+    "Application.Pet_Store_Dogs.executor": "Run",
+    "Application.Photograph_Height.executor": "Run",
+    "Application.Reduce_Dishes.executor": "Run",
+    "Application.Robot_Stair_Climbing.executor": "Run",
+    "Application.Safe_Walk_Through_Grid.executor": "Run",
+    "Application.Selling_Wine_Bottles.executor": "Run",
+    "Application.Single_Source_Shortest_Path.executor": "Run",
+    "Application.Sliding_Window_Median.executor": "Run",
+    "Application.Smallest_Possible_Odd_Integer.executor": "Run",
+    "Application.Solve_Sudoku.executor": "Run",
+    "Application.Stair_Climbing_Damaged_Stairs.executor": "Run",
+    "Application.Stock_Buy_Sell_Multiple_Times_Maximum_Profit.executor": "Run",
+    "Application.Stock_Buy_Sell_Once_Maximum_Profit.executor": "Run",
+    "Application.Street_Travel_Count.executor": "Run",
+    "Application.String_Characters_Combinations_Sorted.executor": "Run",
+    "Application.String_Permutation.executor": "Run",
+    "Application.Subset_Count_Combination.executor": "Run",
+    "Application.Sudoku_Validity.executor": "Run",
+    "Application.Text_Justification.executor": "Run",
+    "Application.Toll_Gate_Collection.executor": "Run",
+    "Application.Trapping_Rain_Water.executor": "Run",
+    "Application.Two_Integers_Occuring_Odd_Count.executor": "Run",
+    "Application.Vendor_Maximum_Profit.executor": "Run",
+    "Application.Wildcard_Pattern_Matching.executor": "Run",
+    "Application.Word_Break.executor": "Run",
+    "Application.Word_Ladder.executor": "Run",
+    "Application.Word_Search_n_Matrix.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Saravanan G/IdeaProjects/SkillRackPrime/src/Main.java"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
